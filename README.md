@@ -1,7 +1,7 @@
 # M01-Collaboration
 
-Some description!
+This is for assignment M01 - collaboration and Github
 
 ## Subheader
 
-Watch tutorial on Youtube.
+I have remodified this a few times in order to get it as close to the YouTube tutorial that was provided.
